@@ -1,6 +1,6 @@
 # php-basics
 
-**Author:** [Joshua David Gardner](https://github.com/jgcoding2020/php-basics](https://jgcoding2020.github.io/My-Portfolio/)
+**Author:** [Joshua David Gardner](https://jgcoding2020.github.io/My-Portfolio/)
 
 ## Copyright Notice
 
